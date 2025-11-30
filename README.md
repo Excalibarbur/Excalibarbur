@@ -1,11 +1,4 @@
-```
-___________                        .__   .__ ___.                  ___.                    
-\_   _____/___  ___  ____  _____   |  |  |__|\_ |__  _____  _______\_ |__   __ __ _______  
- |    __)_ \  \/  /_/ ___\ \__  \  |  |  |  | | __ \ \__  \ \_  __ \| __ \ |  |  \\_  __ \ 
- |        \ >    < \  \___  / __ \_|  |__|  | | \_\ \ / __ \_|  | \/| \_\ \|  |  / |  | \/ 
-/_______  //__/\_ \ \___  >(____  /|____/|__| |___  /(____  /|__|   |___  /|____/  |__|    
-        \/       \/     \/      \/                \/      \/            \/                 
-```
+![Logo](logo_transparent.png)
 
                                                                                                                         
 # 👋 About Me
@@ -19,7 +12,7 @@ ___________                        .__   .__ ___.                  ___.
 
 - ☕ Java • 💾 C/C++ • 🧱 Assembly • 🐍 Python • 🗄️ SQL • 🔌 Verilog
 - 🐧 Linux, Raspberry Pi, networking, automation, backend tools  
-- 🎛️ Digital systems, operating systems, concurrency & low-level logic  
+- 🎛️ Digital systems, operating systems & low-level logic  
 - 🧪 Love tinkering with hardware + software integration
 
 
